@@ -1,0 +1,97 @@
+html {
+  text-transform: capitalize;
+  text-shadow: 0 0 20px #f51414;
+}
+body {
+  /* background-image: url(abstract-technology-particle-background_52683-25766.jpg); */
+  /* ^this is for the previous background-image */
+  background-image: url(darkmodeback.png);
+  background-repeat: no-repeat;
+  /* background-color:#121212 ; */
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+}
+h1 {
+  color: #bb86fc;
+  font-family: Impact, Haettenschweiler, "Arial Narrow Bold", sans-serif;
+  font-weight: bolder;
+  font-weight: 200;
+  text-align: center;
+  background-color: transparent;
+}
+h2 {
+  color: #bb86fc;
+  font-weight: 300;
+  font-size: 200%;
+}
+a {
+  color: #bb86fc;
+  /* background-color: black; */
+  text-transform: capitalize;
+  font-family: "Lato", sans-serif;
+  font-weight: bold;
+  padding: 25dp;
+}
+a:hover {
+  color: rgb(212, 231, 42);
+}
+#logo {
+  margin-left: 43%;
+  opacity: 0.97;
+  display: block;
+    margin: 0 auto;
+}
+
+h3 {
+  color: #ffffff;
+}
+
+.centertext {
+  /* margin-left: 43%; */
+  text-align: center;
+  font-weight: bolder;
+  color: #bb86fc;
+}
+iframe {
+  border:2px solid  #bb86fc ;
+  border-radius: 20px;
+}
+/* iframe:hover{ width: 104%;} */
+#profile_pic {
+  /* padding-left: 34%; */
+  display: block;
+    margin: 0 auto;
+  border:5px solid #795e9b;
+  border-radius: 55px;
+}
+#form {
+  color: #bb86fc;
+}
+#form h3 {
+  color: inherit;
+  text-decoration: underline;
+}
+#form div {
+  color: inherit;
+}
+.button{color: inherit;
+                font-size: larger;
+                 background-color: rgb(44, 26, 26);
+               }
+#form input {
+  color: #ffffff;
+  border:3px solid #795e9b;
+  background-color: rgb(9, 9, 37);
+}
+#form textarea{
+  color: #ffffff;
+  font-size: larger;
+  font-family: Tahoma, Geneva, Verdana, sans-serif;
+  border:3px solid #795e9b;
+  background-color: rgb(9, 9, 37);
+  width: 200px;
+  height: 30px;
+  scroll-behavior: auto;
+}
+
