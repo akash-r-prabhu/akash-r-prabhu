@@ -1,5 +1,6 @@
 <h1 align="center">Hi 🫠 </br>I'm Akash</h1>
-<h3 align="left">I'm a React Js web developer and a python programmer</h3>
+<h3 align="left">Developer | Data Scientist </h3>
+<p align="left">Exploring tech, one code at a time.</p>
 <h3 align="left">Studying Btech'24 CSE @Amrita School Of Engineering Coimbatore</h3>
 </br>
 <h3 align="left">Connect with me:</h3>
