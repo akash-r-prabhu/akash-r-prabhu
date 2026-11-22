@@ -40,11 +40,6 @@ I'm a software engineer working at the intersection of engineering and data. Cur
 
 **Ambient Intelligent System for Appointment Management** — *IEEE*
 
-## Recognition
-
-- 🏆 **Team Excellence Award** — Trianz (Feb 2025)
-- 🏆 **Spotlight Award** — GE Aerospace (Aug 2024)
-
 ## Tech I work with
 
 <p align="left">
